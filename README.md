@@ -27,10 +27,16 @@ $ cd instaclone
 # Instale as dependências
 $ npm install ou yarn add
 
+# acesse a pasta backend em um terminal
+$ cd backend
+
+# em outro terminal acesse a pasta frontend
+$ cd frontend
+
 # Execute a aplicação 
 $ npm start ou yarn start
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta:3333 <http://localhost:3333> e o frontend irá inicir em <http://localhost:3000>
 ```
 
 ### Tecnologias utilizadas
