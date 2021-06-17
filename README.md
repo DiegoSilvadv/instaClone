@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/npm%20-6.14.13-blueviolet) ![Badge](https://img.shields.io/badge/node%20-14.17.0-blueviolet)
 
-## 📲 Aplicação é baseada no no instagram para publicação de posts
+## 📲 Aplicação é baseada no instagram para publicação de posts
 
 ### Features
 
